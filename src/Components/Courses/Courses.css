@@ -1,0 +1,11 @@
+.col-md-4{
+    border: 1px solid #00000026;
+    padding: 10px;
+}
+.col-md-4 h5{
+    margin: 15px 0px 10px 0px;
+    font-weight: 700;
+}
+.col-md-4 img{
+    width: 100%;
+}
