@@ -1,7 +1,5 @@
 import React from 'react';
 import logo from '../../image/logo.png';
-// import Button from 'react-bootstrap/Button';
-// import Card from 'react-bootstrap/Card';
 import './Header.css'
 
 const Header = () => {
